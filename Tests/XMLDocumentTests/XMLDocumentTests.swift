@@ -1,5 +1,5 @@
 import XCTest
-@testable import XMLDocument
+@testable import XMLDocumentLib
 
 final class XMLDocumentTests: XCTestCase {
     func testEmptyString() {
