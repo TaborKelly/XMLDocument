@@ -89,3 +89,6 @@ $ swift --version
 Swift version 4.2 (swift-4.2-RELEASE)
 Target: x86_64-unknown-linux-gnu
 ```
+
+## Bug report
+A bug report has been filed as [SR-9419](https://bugs.swift.org/browse/SR-9419).
